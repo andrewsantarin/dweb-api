@@ -52,7 +52,7 @@ pyexcel==0.4.2
 pyexcel-io==0.5.7
 pyexcel-xls==0.3.1
 pyexcel-xlsx==0.3.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylint==1.9.1
 PyPDF2==1.26.0
 python-dateutil==2.7.3
